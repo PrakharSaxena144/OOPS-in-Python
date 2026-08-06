@@ -258,7 +258,6 @@ Planned additions include:
 * State Pattern
 * SOLID Principles
 * Dependency Injection
-* UML diagrams
 * Real-world mini projects using multiple design patterns
 
 ---
